@@ -219,6 +219,7 @@ __marimo__/
 
 # Data & Model Weights (Crucial!)
 data/
+cifake/
 *.pth
 *.pt
 *.bin
