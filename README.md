@@ -1,4 +1,4 @@
-# bobble-wobble — Robust AIGC Image Detection
+# Robust AIGC Image Detection (by bobble-wobble)
 
 TikTok TechJam submission: detecting AI-generated images with robustness to real-world
 post-processing (JPEG re-compression, blur, noise, resizing, color jitter, cropping).
